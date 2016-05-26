@@ -1,0 +1,1 @@
+Vonalkód kezelő program.
